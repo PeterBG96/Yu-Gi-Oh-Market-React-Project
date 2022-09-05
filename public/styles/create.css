@@ -1,0 +1,121 @@
+.createHtml{
+    font-family: Helvetica, sans-serif;
+    background-image: url(/images/stoneTablet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+}
+
+body .createMain{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+body .createMain h2{
+    font-size: 36px;
+    margin-left: 62px;
+}
+
+body .createMain li{
+    list-style: none;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+
+body .createMain li input{
+    border-radius: 20px;
+    padding: 6px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+#description1{
+    width: 172px;
+    height: 100px;
+    display: block;
+    margin-left: 622px;
+    margin-top: -40px;
+}
+
+.cardType{
+    margin-left: 57px;
+}
+
+.creationDate{
+    margin-left: -37px;
+}
+
+.descLabel{
+    margin-left: -180px;
+}
+
+.cardPrice{
+    margin-right: 2px;
+}
+
+.locationOwner{
+    margin-left: 29px;
+    margin-top: 5px;
+}
+
+#cardCreatePrice{
+    width: 60px;
+}
+
+.btnCreate{
+    cursor: pointer;
+    background-color: rgba(0,0,0,.5);
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: yellow;
+}
+
+.btnCreate:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+
+.joeyWheeler{
+    width: 400px;
+    float:left;
+    margin-top:-600px;
+    margin-left: 870px;
+}
+
+.timeWizard{
+    display: block;
+    max-width: 320px;
+    margin-top: -750px;
+    margin-left: -50px;
+    border-style: none;
+}
+
+.babyDragon{
+    display: block;
+    width: 328px;
+    margin-top: -336px;
+    margin-left: 200px;
+}
+
+.polymerization{
+    display: block;
+    width: 140px;
+    border-radius: 75px;
+    margin-left: 180px;
+    margin-top: -34px;
+}
+
+.thousandDragon{
+    display: block;
+    width: 320px;
+    margin-top: 15px;
+    margin-left: 90px;
+}

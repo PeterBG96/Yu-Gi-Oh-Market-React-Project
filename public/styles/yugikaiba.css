@@ -1,0 +1,122 @@
+html{
+    font-family: Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body{
+    margin: 0;
+}
+
+/* header{
+    height: 200vh;
+    background: url(/images/castle.jpg);
+    background-size: 100% 100%;
+} */
+
+.KaibaAndYugiImg{
+    width: 450px;
+    position: relative;
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+    left: 430px;
+    top: 220px;
+}
+
+.infoKaibaAndYugi{
+    background-color: rgb(0,0,0,0.5);
+    padding: 5px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 450px;
+    top: 215px;
+    left: 430px;
+    font-size: 16px;
+}
+
+.imgMultiply{
+    width: 350px;
+    position: relative;
+    bottom: 350px;
+    left: 55px;
+}
+
+.imgKuriboh{
+    width: 120px;
+    position: relative;
+    bottom: 500px;
+    right: 185px;
+}
+
+.imgKuriboh2{
+    width: 120px;
+    position: relative;
+    right: 312px;
+    bottom: 200px;
+}
+
+.imgKuriboh3{
+    width: 120px;
+    position: relative;
+    right: 580px;
+    bottom: 300px;
+}
+
+.imgKuriboh4{
+    width: 120px;
+    position: relative;
+    bottom: 300px;
+    right: 400px;
+
+}
+
+.imgKuriboh9{
+    width: 120px;
+    position: relative;
+    bottom: 450px;
+    right: 530px;
+}
+
+.imgKuriboh10{
+    position: relative;
+    width: 120px;
+    bottom: 450px;
+    right: 930px;
+}
+
+.imgUltimateDragon{
+    width: 440px;
+    position: relative;
+    bottom: 625px;
+    left: 900px;
+}
+
+.imgYugiMuto{
+    width: 440px;
+    position: relative;
+    top: 372px;
+}
+
+.cloudYugi{
+    width: 870px;
+    position: relative;
+    bottom: 220px;
+    left: 120px;
+}
+
+.YugiQuestion{
+    color: white;
+    position: absolute;
+    font-size: 19px;
+    top: 1245px;
+    width: 220px;
+    left: 465px;
+}
+
+.YugiTellMe{
+    text-decoration: none;
+    color: yellow;
+}

@@ -1,0 +1,111 @@
+#marketPage h1{
+    margin-top: 65px;
+}
+
+.YuGiOhCardList{
+    color: white;
+    list-style-type: none;
+    margin-right: 950px;
+    margin-bottom: 400px;
+    margin-left: 50px;
+    display: flex;
+}
+.YuGiOhCard{
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(0, 0,0,0.5);
+}
+.marketCardImg{
+    margin-top: -5px;
+}
+
+.maketCardName{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.buttonYuGiOhCard{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.marketDateOfCreation{
+    margin-top: -6px;
+}
+.marketCardType{
+    font-size: 15px;
+    margin-top: -15px;
+}
+
+.marketCardPrice{
+    margin-top: -10px;
+}
+
+.marketCardsDesctiption{
+    margin-top:-12px;
+}
+
+#marketPage h1{
+    color: black;
+    text-align: center;
+}
+
+.marketSolomonMuto{
+    position: absolute;
+    width: 350px;
+    top: 100px;
+    left: 500px;
+}
+
+.marketBlackCLoud{
+    position: relative;
+    width: 900px;
+    left: 120px;
+    top: 80px;
+}
+
+.textSolomonMuto{
+    position: absolute;
+    font-size: 20px;
+    width: 190px;
+    top: 100px;
+    left: 485px;
+    top: 293px;
+}
+
+.searchingCards{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.labelCardSearch{
+    font-size: 20px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.searchingCards .searchCards{
+    padding: 6px;
+}
+
+.searchIconFa{
+    position: absolute;
+    margin-left: 820px;
+    margin-top: 3px;
+}
+
+.ownerIcon{
+    margin-top: -5px;
+}
+
+.ownerIconCheck, .ownerIconReject{
+    position: absolute;
+    margin-top: -10px;
+}

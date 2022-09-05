@@ -1,0 +1,78 @@
+.loginHtml{
+    font-family: Helvetica, sans-serif;
+    background-image: url(/images/stoneTablet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.loginSectionOne{
+    text-align: center;
+    margin-top:200px;
+    font-size:24px
+}
+
+.passwordArticle{
+    margin-left: 3px;
+}
+
+.loginSectionOne .loginPage h1{
+    color: white;
+    font-size: 40px;
+}
+
+.loginSectionOne input{
+    border-radius: 20px;
+    padding: 6px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.loginSectionOne form{
+    color: white;
+}
+
+.emailArticle {
+    margin-left: -45px;
+}
+
+.form-group{
+    font-size: 20px;
+    margin-right: 32px;
+    margin-top: 12px;
+}
+
+.form-group a{
+    text-decoration: none;
+    color: black;
+}
+
+.login button{
+    cursor: pointer;
+    background-color: rgba(0,0,0,.5);
+    margin-left: 16px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: yellow;
+}
+
+.login button:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.darkMagician{
+    position: absolute;
+    width: 360px;
+    margin-left: -550px;
+    margin-top: -300px;
+}
+
+.thePharoh{
+    position: absolute;
+    width: 360px;
+    margin-left: 208px;
+    margin-top: -294px;
+}

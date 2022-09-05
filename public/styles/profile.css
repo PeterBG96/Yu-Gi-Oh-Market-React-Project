@@ -1,0 +1,86 @@
+.profileInfo{
+    color: white;
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 570px;
+}
+
+.profileInfo .currInfo{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+
+.profileBanner{
+    position: absolute;
+    /* background: url("/images/castle.jpg"); */
+    background-color: rgb(117, 7, 7);
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 110px;
+    color: white;
+    top: 80px;
+    left: 500px;
+}
+
+.imgCopyCat{
+    position: relative;
+    width: 349px;
+    margin-bottom: -79px;
+    left: 415px;
+    top: -62px;
+}
+
+.imgJinzo{
+    position: relative;
+    width: 155px;
+    margin-bottom: -79px;
+    right: 400px;
+    top: -62px;
+}
+
+.btnProfileBanner{
+    position: relative;
+    cursor: pointer;
+    background-color: rgba(0,0,0,.5);
+    margin-top: -15px;
+    right: 240px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: yellow;
+}
+
+.btnProfileBanner:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.profilePictureGender{
+    width: 150px;
+    border-radius: 120px;
+    border: 8px;
+    border-color: black;
+    border-style:groove;
+}
+
+.myOffersProfile{
+    position: absolute;
+    font-size: 36px;
+    margin-left: 520px;
+    margin-top: -140px;
+}
+
+.showingOffersNumber{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 424px;
+    font-size: 30px;
+}
+
+#displayOurOffers{
+    color: white;
+    margin-top: 180px;
+    list-style-type: none;
+    margin-right: 980px;
+    margin-bottom: -100px;
+    margin-left: 50px;
+    display: flex;
+}

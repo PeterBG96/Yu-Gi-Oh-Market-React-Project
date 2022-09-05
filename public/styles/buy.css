@@ -1,0 +1,102 @@
+
+.purchaseDetails{
+    text-align: center;
+    margin-top: -400px;
+    margin-right:700px;
+    /* margin-right: 200px */
+}
+
+.purchaseDetails h1{
+    color: white;
+    font-size: 32px;
+    margin-bottom:50px;
+    padding-right: 10px;
+}
+
+.firstNameFieldBuy{
+    margin-right: 28px;
+}
+
+.lastNameFieldBuy{
+    margin-top: 30px;
+    margin-right: 24px;
+}
+
+.emailFieldBuy{
+    margin-top: 30px;
+    margin-left: 21px;
+}
+
+.addressFieldBuy{
+    margin-top: 30px;
+}
+
+.paymentCardBuy{
+    margin-top: 30px;
+    margin-right: 42px;
+}
+
+.paymentCardDetailsBuy{
+    margin-top: 30px;
+}
+
+.purchaseDetails .inputFields{
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.formPurchaseDetails label {
+    color: white;
+    font-size: 20px;
+}
+.formPurchaseDetails{
+    /* background-color: aqua;
+    margin-right: 300px;
+    margin-left: 10px; */
+}
+.paymentCardDetails{
+    margin-right: 8px;
+}
+
+.purchaseDetails .paymentCardDetailsExtra{
+    width: 110px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+#btnSubmitPayment{
+    cursor: pointer;
+    background-color: rgba(0,0,0,.5);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: yellow;
+}
+
+#btnSubmitPayment:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.imgBanditKeit{
+    position: relative;
+    width: 300px;
+    top:595px;
+    left: 800px;
+}
+
+.cloudBanditKeit{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 80px;
+    width: 900px;
+}
+
+.textBanditKeit{
+    position: relative;
+    font-size: 32px;
+    width: 250px;
+    top: 630px;
+    left:880px;
+}

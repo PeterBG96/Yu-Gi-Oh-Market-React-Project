@@ -1,0 +1,91 @@
+.registerHtml{
+    font-family: Helvetica, sans-serif;
+    background-image: url(/images/stoneTablet.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.noBullet li{
+    list-style: none;
+}
+
+
+
+.registerSectionOne .signupForm{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    margin-top: 150px;
+}
+
+.registerSectionOne h1{
+    font-size: 40px;
+    margin-left: 32px;
+}
+
+.registerSectionOne .signupForm li{
+    line-height: 40px;
+}
+
+.registerSectionOne .signupForm li input{
+    border-radius: 20px;
+    padding: 6px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+
+.signupForm .emailField{
+    margin-left: 60px;
+}
+
+.lastNameField{
+    margin-left:4px
+}
+
+.genderField{
+    margin-left: 25px;
+}
+
+.signupForm .passwordField{
+    margin-left: 15px;
+}
+
+.signupForm  .repassField{
+    margin-left: -68px;
+}
+
+.join button{
+    cursor: pointer;
+    background-color: rgba(0,0,0,.5);
+    margin-top: 20px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: yellow;
+}
+
+.join button:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+}
+
+.kaiba{
+    position: absolute;
+    width: 500px;
+    margin-top: -360px;
+    margin-left: 800px;
+}
+
+.whiteDragon{
+    position: absolute;
+    width: 525px;
+    margin-top: -360px;
+    margin-left: 0px;
+}
+
+#maleRadioButton, #femaleRadioButton{
+    cursor: pointer;
+}

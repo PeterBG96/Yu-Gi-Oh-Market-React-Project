@@ -1,0 +1,50 @@
+.notFoundHtml{
+    font-family: Helvetica, sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.notFoundMain p {
+    text-align: center;
+}
+
+.firstP{
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.secondP{
+    color: white;
+    font-size: 40px;
+    margin-top: -40px;
+}
+
+
+.pegasus{
+    width: 360px;
+    margin-bottom: -390px;
+    margin-left: 500px;
+}
+
+.cloudPegasus{
+    width: 720px;
+    margin-left: 240px;
+    margin-top: -98px;
+}
+
+.cloudText{
+    color: white;
+    margin-top: -210px;
+    margin-left: 515px;
+    width: 170px;
+}
+
+.cloudText a{
+    text-decoration: none;
+    color: yellow;
+}

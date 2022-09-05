@@ -1,0 +1,123 @@
+html{
+    font-family: Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body{
+    margin: 0;
+}
+
+/* header{
+    height: 200vh;
+    background-color: rgb(22, 21, 21);
+    background-size: 100% 100%;
+} */
+
+.imgYugiAndPaniK{
+    width: 450px;
+    position: relative;
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+    left: 430px;
+    top: 220px;
+}
+
+.infoPaniK{
+    background-color: rgb(0,0,0,0.5);
+    padding: 5px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 450px;
+    top: 215px;
+    left: 430px;
+    font-size: 16px;
+}
+
+.imgCastleOfDarkIllusions{
+    width: 800px;
+    position: relative;
+    right: 180px;
+    bottom: 365px;
+}
+
+.imgReaperOfTheCards{
+    width: 140px;
+    position: relative;
+    right: 670px;
+    bottom: 180px;
+}
+
+.imgKingOfYamimakai{
+    width: 140px;
+    position: relative;
+    right: 940px;
+    bottom: 220px;
+}
+
+.imgZoa{
+    width: 150px;
+    position: relative;
+    right: 825px;
+    bottom: 220px;
+}
+
+.imgGaiaTheFierceKnight{
+    width: 235px;
+    position: relative;
+    bottom: 770px;
+    left: 890px;
+}
+
+.imgCurseOfDragon{
+    width: 220px;
+    position: relative;
+    bottom: 780px;
+    left: 890px;
+}
+
+.imgPolymerization{
+    width: 180px;
+    position: relative;
+    bottom: 600px;
+    left: 540px;
+    border-radius: 100px;
+}
+
+.imgGaiaTheDragonChampion{
+    width: 320px;
+    position: relative;
+    bottom: 400px;
+    left: 280px;
+}
+
+.imgPaniK{
+    width: 600px;
+    position: relative;
+    top: 5px;
+    left: 370px;
+}
+
+.cloudPaniK{
+    width: 749px;
+    position: relative;
+    bottom: 350px;
+    right: 400px;
+}
+
+.PanikQuestion{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    top: 1170px;
+    width: 160px;
+    left: 510px;
+}
+
+.PanikTellMe{
+    text-decoration: none;
+    color: yellow;
+}

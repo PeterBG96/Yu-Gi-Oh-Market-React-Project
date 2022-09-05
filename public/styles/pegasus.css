@@ -1,0 +1,101 @@
+html{
+    font-family: Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body{
+    margin: 0;
+}
+
+/* header{
+    height: 200vh;
+    background: url(/images/castle.jpg);
+    background-size: 100% 100%;
+} */
+
+.PegasusAndYugiImg{
+    width: 450px;
+    position: relative;
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+    left: 430px;
+    top: 220px;
+}
+
+.infoPegasus{
+    background-color: rgb(0,0,0,0.5);
+    padding: 5px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 450px;
+    top: 215px;
+    left: 430px;
+    font-size: 16px;
+}
+
+.toonWorld{
+    width: 300px;
+    position: relative;
+    left: 990px;
+    bottom: 350px;
+}
+
+.toonMermaid{
+    width: 150px;
+    position: relative;
+    left: 750px;
+    bottom: 670px;
+}
+
+.toonDragon{
+    width: 160px;
+    position: relative;
+    left: 440px;
+    bottom: 600px;
+}
+
+.toonSummonedSkull{
+    width: 140px;
+    position: relative;
+    left: 580px;
+    bottom: 600px;
+}
+
+.relinquished{
+    width: 350px;
+    position: relative;
+    right: 750px;
+    bottom: 380px;
+}
+
+.normalPegasus{
+    width: 300px;
+    position: relative;
+    top: 3px;
+    left: 500px;
+}
+
+.normalPegasusCloud{
+    width: 870px;
+    position: relative;
+    bottom: 290px;
+    right: 170px;
+}
+
+.PegasusQuestion{
+    color: white;
+    position: absolute;
+    font-size: 21px;
+    top: 1090px;
+    width: 220px;
+    left: 465px;
+}
+
+.PegasusTellMe{
+    text-decoration: none;
+    color:yellow
+}

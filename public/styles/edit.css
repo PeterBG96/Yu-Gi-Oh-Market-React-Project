@@ -1,0 +1,88 @@
+#editForm{
+    text-align: center;
+    background-color: rgb(0, 0,0,0.6);
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+#editForm h2{
+    font-size: 36px;
+    margin-top: 80px;
+    color: white;
+}
+
+#editForm .inputFields{
+    border-radius: 20px;
+    padding: 6px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+#editForm li{
+    font-size: 20px;
+    color: white;
+}
+
+.nameCardEdit{
+    margin-right: 50px;
+}
+
+.cardTypeEdit{
+    margin-left: 8px;
+    margin-top: 10px
+}
+
+.creationDateEdit{
+    margin-right: 88px;
+    margin-top: 10px
+}
+
+.cardImageEdit{
+    margin-right: 50px;
+    margin-top: 10px
+}
+
+
+#description12{
+    display: block;
+    margin-top: -110px;
+    margin-left:300px;
+    width: 172px;
+    height: 100px;
+
+}
+.descLabelEdit{
+    display: block;
+    margin-right: 220px;
+    margin-bottom: 90px;
+    color: white
+}
+
+.cardDescriptionEdit{
+    margin-top: 5px;
+}
+
+.cardPriceEdit{
+    margin-right: 34px;
+    margin-top: 12px;
+}
+
+#priceEditCard{
+    width: 60px;
+}
+
+.btnEdit{
+    cursor: pointer;
+    background-color: rgba(33, 216, 9, 0.5);
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 10px 32px;
+    font-size: 20px;
+    color: white
+}
+
+.btnEdit:hover{
+    background-color: rgba(255, 255, 255, 0.692);
+    color: yellow
+}

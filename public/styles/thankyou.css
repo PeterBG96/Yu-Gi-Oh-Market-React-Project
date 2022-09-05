@@ -1,0 +1,26 @@
+.TeaGardnerImg{
+    position: relative;
+    width: 600px;
+    bottom: -425px;
+    margin-left: 350px;
+}
+
+.cloudTeaGardner{
+    position: relative;
+    width: 1000px;
+    top: -270px;
+    right: 30px;
+}
+
+.TeaGardnerText{
+    position: absolute;
+    font-size: 22px;
+    top: 410px;
+    width: 200px;
+    left: 380px;
+}
+
+.linkTextTea{
+    text-decoration: none;
+    color: yellow;
+}

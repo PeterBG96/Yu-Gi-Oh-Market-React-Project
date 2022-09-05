@@ -1,0 +1,57 @@
+/* .explanationArticle{
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    width: 1000px;
+    padding-left: 20px;
+    position: absolute;
+    margin-left: 1020px;
+    margin-top: 150px;
+}
+
+.explanationArticle .explanationParagraph{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    line-height: 5px;
+} */
+
+.factMakoTsunamiLink, .factWeevilUnderwoodLink, .factPaniKLink, .factMaximillionPegasusLink, .factYugiMutoLink{
+    text-decoration: none;
+    color: white;
+}
+
+.factMakoTsunamiLink:hover, .factWeevilUnderwoodLink:hover, .factPaniKLink:hover, .factMaximillionPegasusLink:hover, .factYugiMutoLink:hover{
+    text-decoration: none;
+    color: yellow
+}
+
+.charactersFactsLearn{
+    color: white;
+    font-size: 20px;
+}
+
+.charactersFacts{
+    background-color: rgba(0,0,0,.5);
+    display: block;
+    margin-left: 20px;
+    margin-top: 240px;
+    padding-left: 20px;
+}
+
+.explanationArticle {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    width: 1000px;
+    padding-left: 20px;
+    position: absolute;
+    margin-top: -180px;
+    margin-left: 120px;
+}
+
+.explanationArticle .explanationParagraph{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    line-height: 5px;
+}

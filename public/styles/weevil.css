@@ -1,0 +1,80 @@
+html{
+    font-family: Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body{
+    margin: 0;
+}
+
+/* header{
+    height: 200vh;
+    background: url(/images/grass.png);
+    background-size: 100% 100%;
+} */
+
+.JoeyAndWeevil{
+    width: 450px;
+    position: relative;
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+    left: 450px;
+    top: 250px;
+}
+
+.infoWeevil{
+    background-color: rgb(0,0,0,0.5);
+    padding: 5px;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 450px;
+    top: 240px;
+    left: 450px;
+    font-size: 16px;
+}
+
+.WeevilQuestion{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    top: 945px;
+    width: 200px;
+    left: 535px;
+}
+
+.WeevilImg{
+    width: 520px;
+    position: relative;
+    top: 445px;
+    left: 430px;
+}
+
+.cloudWeevil{
+    width: 829px;
+    position: relative;
+    top: 80px;
+    right: 310px;
+}
+
+.insectQueenImg{
+    width: 390px;
+    position: relative;
+    bottom: 750px;
+    left: 920px;
+}
+
+.imgGreatMoth{
+    width: 350px;
+    position: relative;
+    bottom: 740px;
+    right: 340px;
+}
+
+.WeevilTellMe{
+    text-decoration: none;
+    color: yellow;
+}
